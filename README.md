@@ -32,5 +32,5 @@ After being trained, fake faces have been generated.
 
 ![Fake faces](./assets/fake_faces.png)
 
-[Generative Adversarial Networks Paper]: https://arxiv.org/abs/1406.2661
+[Generative Adversarial Networks]: https://arxiv.org/abs/1406.2661
 [CelebFaces Attributes Dataset (CelebA)]: http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
