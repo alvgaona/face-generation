@@ -23,7 +23,7 @@ The dataset can be found at [CelebFaces Attributes Dataset (CelebA)].
 
 ## Results
 
-In this section you can both generator and discriminator loss after being trained for `20` epochs with a learning rate of
+In this section you can see both generator and discriminator loss after being trained for `20` epochs with a learning rate of
 `0.0002`.
 
 ![Loss](./assets/loss.png)
